@@ -1,5 +1,5 @@
 some_var="false"
-another_var=nil
+another_var="nil"
 puts case
 when some_var=="pink elephant"
 	"Dont think about elephant!"
@@ -10,3 +10,5 @@ when some_var==false
 else
 	"I guess nothing matched.. But why?"
 end
+##
+p

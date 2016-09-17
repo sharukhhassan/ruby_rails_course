@@ -10,5 +10,3 @@ when some_var==false
 else
 	"I guess nothing matched.. But why?"
 end
-##
-p
